@@ -1,0 +1,13 @@
+# 虚拟环境
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 知识库本地数据
+knowledge_db/
+
+# 环境变量配置
+.env
